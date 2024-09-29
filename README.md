@@ -1,5 +1,5 @@
 # GPS Measurement Visualization
-**Status**: *Done*
+**Status**: *Completed*
 
 ## Project Overview
 This project implements a web-based visualization system for GPS measurements. It connects to a GPS emulation service via WebSocket, processes the received data in real-time, and displays the positions of an object and satellites on a Cartesian coordinate graph.
