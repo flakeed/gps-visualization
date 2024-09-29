@@ -1,0 +1,12 @@
+{
+    "name": "gps-visualization-app",
+    "version": "1.0.0",
+    "description": "Web application for visualizing GPS data and controlling parameters via API",
+    "scripts": {
+        "start": "live-server"
+    },
+    "author": "flakeed",
+    "devDependencies": {
+        "live-server": "^1.2.2"
+    }
+}
